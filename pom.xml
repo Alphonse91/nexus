@@ -2,6 +2,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.first</groupId>
   <artifactId>mexus-app</artifactId>
-  <version>1.0.0</version>
+  <version>1.0</version>
   <name>mexus-app</name>
 </project>
